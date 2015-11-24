@@ -34,9 +34,7 @@ h2 {
 }
 
 .a-clean {
-    text-decoration-line: none;
-    text-decoration-style: initial;
-    text-decoration-color: initial;
+    text-decoration: none;
     color: inherit;
 }
 .a-unable {
