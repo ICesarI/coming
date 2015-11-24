@@ -1,2 +1,2 @@
 # coming
-Simple coming soon.
+Simple coming soon page.

@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+.high-section {
+    background-color: steelblue;
+    color: aliceblue;
+    height: 50vh;
+    width: 100%;
+    float: left;
+}
+.low-section {
+    color: steelblue;
+    height: 50vh;
+    width: 100%;
+    float: left;
+}
+
+.text-mid {
+    margin-top: 20vh;
+}
+.text-quarter {
+    margin-top: 10vh;
+}
+
+.a-clean {
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: inherit;
+}
+.a-unable {
+    opacity: 0.1;
+}
